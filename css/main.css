@@ -21,7 +21,6 @@
 FORM
 *******************************************/
 .form {
-  /**/
   background: #ffffff;
   max-width: 400px;
   margin: 0 auto 25px;
@@ -30,7 +29,6 @@ FORM
 }
 
 .headline {
-  /**/
   margin-bottom: 46px;
   font-size: 35px;
   font-weight: 300;
@@ -38,11 +36,9 @@ FORM
 }
 
 .formGroup {
-  /**/
 }
 
 .label {
-  /**/
   margin-bottom: 20px;
   display: block;
   font-weight: 600;
@@ -50,7 +46,6 @@ FORM
 }
 
 .input {
-  /**/
   display: block;
   margin-bottom: 23px;
   height: 55px;
@@ -62,7 +57,6 @@ FORM
 }
 
 .submit {
- /**/
  background: #2bc75e;
  border: none;
  color: #ffffff;
@@ -78,24 +72,20 @@ FORM
 }
 
 .forgotPassword {
-  /**/
   text-align: center;
 }
 
-.forgotPassword_a {
-  /**/
+.forgotPassword_link {
   color: #bdbdbd;
 }
 
 .login {
-  /**/
   text-align: center;
   color: #ffffff;
   margin-bottom: 25px;
 }
 
 .login_link {
-  /**/
   text-decoration: underline;
   color: #ffffff;
 }
